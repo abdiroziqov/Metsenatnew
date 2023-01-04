@@ -10,7 +10,7 @@
           <!-- {{data.full_name}} -->
          Eshmuhammedov Aziz Ishqobilovich
         </h4>
-      </router-link>
+      </router-link> 
 
       <span
         class="bg-[#DDFFF2] rounded-lg py-1.5 px-3 font-normal text-xs text-[#00CF83]"
